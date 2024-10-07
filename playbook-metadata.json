@@ -114,6 +114,25 @@
         "environment": "ML-RT-env"
       },
       "detailed_report_path": "STRING"
+    },
+    {
+      "name": "sbom-tool",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-10-07T14:52:02",
+      "last_update_date": "2024-10-07T14:52:02",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-05-06T11:57:02",
+        "environment": ""
+      },
+      "detailed_report_path": "STRING"
     }
   ]
 }

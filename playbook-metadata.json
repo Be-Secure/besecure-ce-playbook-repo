@@ -126,11 +126,11 @@
       "date_of_creation": "2025-01-17T10:00:00",
       "last_update_date": "2025-01-17T10:00:00",
       "last_execution": {
-        "name": "",
-        "type": "",
-        "status": "",
-        "timestamp": "",
-        "environment": ""
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2025-01-23T16:07:47",
+        "environment": "lime-RT-env"
       },
       "detailed_report_path": "STRING"
     }
